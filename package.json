@@ -1,5 +1,5 @@
 {
-  "name": "video-maker",
+  "name": "video-maker-Robos",
   "version": "1.0.0",
   "description": "Robos para criação de videos no YT",
   "main": "index.js",
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/vinicios-gomes/video-maker-Robos.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
